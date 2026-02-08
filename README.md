@@ -1,7 +1,5 @@
 # A2.Log.AI - Self-Cleaning Protocol for AI Conversations
 
-Never lose an important AI insight again.
-
 A2.Log.AI automatically extracts and organizes valuable knowledge from your ChatGPT, Claude, and Gemini conversations while purging the noise.
 
 
