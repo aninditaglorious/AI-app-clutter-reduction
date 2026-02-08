@@ -303,22 +303,6 @@ The future browser extension will use JavaScript or TypeScript, Chrome Extension
 
 The future backend will use FastAPI for REST API, PostgreSQL plus pgvector for database, Redis for caching, Sentence Transformers for embeddings, and Docker plus Kubernetes for deployment.
 
-
-## PATENT STATUS
-
-A provisional patent is being filed in February 2026.
-
-Key patent claims include:
-
-Claim 1: Three-tier semantic classification for AI conversations
-Claim 2: Failure-based learning for selective knowledge retention  
-Claim 3: Smart conversation thread merging with topic detection
-Claim 4: Collaborative knowledge base with real-time sync
-Claim 5: Reuse-based importance promotion
-
-Prior art analysis shows no existing system combines all these features together.
-
-
 ## TEAM INFORMATION
 
 Creator is Anindita Ray.
@@ -468,22 +452,6 @@ Phase 4 (2028): Universal knowledge management across all digital interactions.
 Phase 5 (2029): AI-powered insights that proactively suggest relevant past knowledge.
 
 The ultimate goal: Every digital interaction you have contributes to a unified personal knowledge graph that makes you smarter over time.
-
-
-## TESTIMONIALS FROM BETA TESTERS
-
-While still in private beta, early testers have shared feedback:
-
-One developer said: I used to ask ChatGPT the same regex patterns every few weeks. Now I just search my A2.Log and find them instantly. Saves me at least an hour per week.
-
-One researcher said: I am writing my dissertation and have had hundreds of AI conversations. A2.Log.AI automatically organized all my research. It is like having a research assistant.
-
-One student said: I study with Claude for my computer science degree. My A2.Log is now my personal textbook with exactly what I need to review.
-
-One team lead said: My team uses collaborative A2.Log for our architecture decisions. Everyone stays in sync and we never lose important discussions.
-
-These testimonials validate the real-world value A2.Log.AI provides.
-
 
 ## GETTING STARTED GUIDE
 
